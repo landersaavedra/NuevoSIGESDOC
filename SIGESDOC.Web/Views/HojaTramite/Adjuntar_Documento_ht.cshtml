@@ -1,0 +1,279 @@
+﻿
+<script type="text/javascript" src="https://dsp.reniec.gob.pe/refirma_invoker/resources/js/clientclickonce.js"></script>
+<script type="text/javascript">
+
+	//<![CDATA[
+    var documentName_ = null;
+
+    window.addEventListener('getArguments', function (e) {
+
+        type = e.detail;
+        if (type == 'W') {
+
+            ArgumentosFirmaWeb();
+        }
+
+    });
+
+  
+    function sendArguments(arg_){				
+				//Event obligatorio a implementar			
+        dispatchEventClient('sendArguments', arg_); // Envía los argumentos		
+        console.log(arg_);
+			}
+
+
+    window.addEventListener('invokerOk', function (e) {
+
+        type == e.detail;
+        if (type == 'W') {
+            OkWeb();
+        }
+
+    });
+
+    //function GetArguments() {
+
+    //    document.getElementById('signedDocument').href = "#";
+
+    //     $.ajax({
+    //                cache: false,
+    //                type: "GET",
+    //                url: "/Documents/doGet",
+    //                data: { },
+    //         sucess: function () {
+    //                    console.log(documentName_);
+    //                    documentName_ = data[0];
+    //                    console.log(documentName_);
+    //                    window.Alert('Documento Encontrado');
+    //                },
+    //                error: function (xhr, ajaxOptions, thownError) {
+    //                    alert('Failed to retrieve states.');
+    //                }
+    //     });
+    //}
+
+    //function PostArguments() {
+        
+    //     $.ajax({
+    //                cache: false,
+    //                type: "POST",
+    //                url: "/Documents/doPost",
+    //                data: { type: "W" },
+    //                sucess: function () {
+    //                     console.log(data);
+    //                      sendArguments(data);
+    //                      console.log(data);
+    //                    window.Alert('Documento Encontrado');
+    //                },
+    //                error: function (xhr, ajaxOptions, thownError) {
+    //                    alert('Failed to retrieve states.');
+    //                }
+    //            });
+    //}
+
+    //function ArgumentosFirmaWeb() {
+    //    GetArguments();
+    //    PostArguments();
+    //}
+
+
+    function ArgumentosFirmaWeb(){
+				document.getElementById("signedDocument").href="#";
+				$.get("/Documents/doGet", {}, function(data, status) {			
+					if (status === 'success') {
+						documentName_ = data;	
+						//Obtiene argumentos
+						$.post("/Documents/doPost", {
+							type : "W"
+						}, function(data, status) {	
+							if (status === 'success') {
+								//alert("Data: " + data + "\nStatus: " + status);						
+								sendArguments(data);
+							}else{
+								alert('No se encuentra argumentsPAdESReFirmaPDFServlet');
+							}						
+						});
+					}else{
+						alert('No se encuentra argumentsPAdESReFirmaPDFServlet');
+					}													
+				});				
+			}
+
+    
+	function OkWeb(){
+		alert("Documento firmado desde una URL correctamente.");
+	    document.getElementById("signedDocument").href="/Document/doGetFile?documentName=" + documentName_;
+    }
+
+    function Cancel(){
+				alert("El proceso de firma digital fue cancelado.");
+				document.getElementById("signedDocument").href="#";
+    }	
+
+    
+	
+	//]]>
+
+    
+</script>
+
+<div class="bottom hidden"></div>
+<div id="mensajes"></div>
+
+<ol class="breadcrumb" style="margin-bottom: 5px;">
+	<li>Adjuntar Archivo</li>
+</ol>
+
+<div class="bs-callout bs-callout-info">
+	<h4>@Html.Label("", (string)ViewBag.nom_docu) </h4>
+	<h4>Adjuntar Archivo</h4>
+	<p>Use el siguiente formulario para adjuntar archivo pdf al Documento</p>
+</div>
+
+
+<!--MODAL DE indexacion de Visado -->
+<div class="modal fade" id="modal_indexVisado" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-width">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title" id="myModalLabel">Lista para Visado</h4>
+			</div>
+
+			<div class="modal-body">
+				<div class="form-horizontal">
+
+					<div class="row">
+						<div class="input-group">
+							<!--
+	<input type="text" class="form-control" placeholder="busca subordinados" />
+	<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>-->
+						</div>
+						
+						<embed src="" />
+
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+@using (Html.BeginForm("Adjuntar_Documento_ht", "HojaTramite", FormMethod.Post, new { @id = "nuevoForm", @enctype = "multipart/form-data" }))
+{
+
+	@Html.AntiForgeryToken()
+	<div class="form-horizontal">
+
+		<div class="row hidden">
+			@Html.TextBox("lbl_id_documento_ext", (string)ViewBag.var_id_documento_ext)
+		</div>
+
+		<div class="form-group col-md-12">
+			<div class="col-md-3">
+				<input type="file" name="file" accept=".pdf" />
+			</div>
+			<div class="progress col-md-3" style="width:50%">
+				<div class="progress-bar"></div>
+				<div class="percent">0%</div>
+			</div>
+
+			<div class="col-md-3" id="status"></div>
+		</div>
+		<div></div>
+        <div class="form-group col-md-12">
+            <input id="btnGrabar" type="submit" value="Guardar Archivo" class="btn btn-primary btn-sm" />
+            <button type="button" class="btn btn-default btn-sm regresar">Cancelar</button>
+            <a class="btn btn-primary btn-sm" href="#" role="button" onclick="initInvoker('W');">Firma Digital</a>
+      
+        </div>
+
+		<input type="hidden" id="argumentos" value="" />
+		<div id="addComponent"></div>
+	</div>
+}
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval"),
+	@Scripts.Render("~/Scripts/jquery.form.js")
+
+}
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<script>
+    $.noConflict();
+    jQuery(document).ready(function ($) {
+
+        $(document).on("click", ".regresar", function () {
+            window.location = '@Url.Action("Consultar_Documentos_x_oficina", "HojaTramite")';
+        });
+
+        var bar = $('.progress-bar');
+        var percent = $('.percent');
+        var status = $('#status');
+
+        $('#nuevoForm').ajaxForm({
+            beforeSend: function () {
+                $('#btnGrabar').attr("disabled", "disabled");
+                status.empty();
+                var percentVal = '0%';
+                bar.width(percentVal);
+                percent.html(percentVal);
+            },
+            uploadProgress: function (event, position, total, percentComplete) {
+                var percentVal = percentComplete + '%';
+                bar.width(percentVal);
+                percent.html(percentVal);
+            },
+            success: function (result) {
+
+                $('.field-validation-error').each(function () {
+                    $(this).removeClass("field-validation-error").addClass("field-validation-valid");
+                    $(this).html('');
+                });
+
+                $("#mensajes").html(result).hide();
+                $("html, body").animate({ scrollTop: 0 }, '1000', 'swing', function () {
+                    $("#mensajes").slideDown(1000, function () { });
+                    setTimeout(function () {
+                        window.location = '@Url.Action("Consultar_Documentos_x_oficina", "HojaTramite")';
+                    }, 2000);
+                });
+            },
+        });
+      //  $('#grid_documento tbody').on('click', '#idtipodocumento', function () {
+
+        $('#btnmodal_indexVisado').on('click', function() {
+
+            $('#modal_indexVisado').modal('show');
+
+        });
+
+        
+        $('#LlamarMetodo').on('click', function () {
+
+
+        $.ajax({
+                    cache: false,
+                    type: "POST",
+                    url: "/Documents/doPost",
+                    data: {type : "W" },
+                    sucess: function () {
+                        sendArguments(data);
+                        window.Alert('Documento Encontrado');
+                    },
+                    error: function (xhr, ajaxOptions, thownError) {
+                        alert('Failed to retrieve states.');
+                    }
+
+                });
+    });
+
+ });
+</script>

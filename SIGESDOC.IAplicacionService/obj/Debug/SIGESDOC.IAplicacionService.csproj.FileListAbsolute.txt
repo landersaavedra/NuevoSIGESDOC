@@ -1,0 +1,10 @@
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\bin\Debug\SIGESDOC.IAplicacionService.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\bin\Debug\SIGESDOC.IAplicacionService.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\bin\Debug\SIGESDOC.Request.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\bin\Debug\SIGESDOC.Response.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\bin\Debug\SIGESDOC.Request.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\bin\Debug\SIGESDOC.Response.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\obj\Debug\SIGESDOC.IAplicacionService.csprojAssemblyReference.cache
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\obj\Debug\SIGESDOC.IAplicacionService.csproj.CopyComplete
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\obj\Debug\SIGESDOC.IAplicacionService.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.IAplicacionService\obj\Debug\SIGESDOC.IAplicacionService.pdb

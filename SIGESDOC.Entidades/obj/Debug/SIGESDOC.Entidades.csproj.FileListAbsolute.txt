@@ -1,0 +1,4 @@
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Entidades\bin\Debug\SIGESDOC.Entidades.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Entidades\bin\Debug\SIGESDOC.Entidades.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Entidades\obj\Debug\SIGESDOC.Entidades.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Entidades\obj\Debug\SIGESDOC.Entidades.pdb

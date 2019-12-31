@@ -1,0 +1,108 @@
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll.config
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll.config
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll.config
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csprojAssemblyReference.cache
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CopyComplete
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.pdb
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll.config
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.pdb
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.pdb
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll.config
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.pdb
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.pdb
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll.config
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.pdb
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CopyComplete
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.dll
+C:\inetpub\wwwroot\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.pdb
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll.config
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.pdb
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.pdb
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll.config
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.pdb
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.pdb
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll.config
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.pdb
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csprojAssemblyReference.cache
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CopyComplete
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.dll
+C:\Users\andres.albarracin\Desktop\PROYECTO LANDER\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll.config
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll.config
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll.config
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.pdb
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csprojAssemblyReference.cache
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CopyComplete
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.dll
+C:\Users\PSSPERU069\Documents\Proyecto\sigesdoc_sanipes\sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll.config
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Repositorio.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Contexto.dll.config
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Entidades.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.IRepositorio.dll.config
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\SIGESDOC.Response.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csprojAssemblyReference.cache
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.csproj.CopyComplete
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Repositorio\obj\Debug\SIGESDOC.Repositorio.pdb

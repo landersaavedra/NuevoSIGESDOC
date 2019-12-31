@@ -1,0 +1,4 @@
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Request\bin\Debug\SIGESDOC.Request.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Request\bin\Debug\SIGESDOC.Request.pdb
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Request\obj\Debug\SIGESDOC.Request.dll
+C:\Users\PSSERU-TI\Source\Repos\bkp\app_sigesdoc\SIGESDOC.Request\obj\Debug\SIGESDOC.Request.pdb
